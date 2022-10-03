@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 604 600" style="enable-background:new 0 0 604 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000068641925283225580520000013672464713476800443_);}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#CE1126;}
+	.st3{fill:#007A3D;}
+</style>
+<g>
+	<g>
+		<defs>
+			<circle id="SVGID_1_" cx="304" cy="301.2" r="300"/>
+		</defs>
+		<clipPath id="SVGID_00000042738407798261667380000004636614076815915689_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g style="clip-path:url(#SVGID_00000042738407798261667380000004636614076815915689_);">
+			<rect x="-147" y="400" width="900" height="200"/>
+			<rect x="-147" y="200" class="st1" width="900" height="200"/>
+			<rect x="-147" class="st2" width="900" height="200"/>
+		</g>
+	</g>
+	<g>
+		<polygon class="st3" points="171.6,282.3 153,225 134.4,282.3 74.1,282.3 122.9,317.7 104.3,375 153,339.6 201.7,375 183.1,317.7 
+			231.9,282.3 		"/>
+		<polygon class="st3" points="483.1,317.7 531.9,282.3 471.6,282.3 453,225 434.4,282.3 374.1,282.3 422.9,317.7 404.3,375 
+			453,339.6 501.7,375 		"/>
+	</g>
+</g>
+</svg>

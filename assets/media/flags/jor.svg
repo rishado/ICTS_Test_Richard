@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600"><path d="M 0,0 H 900 V 600 H 0" fill="#fff"/>
+<path d="M0,0h900v600H0V0z"  fill="#ffffff"/>
+<path d="M0,0h900v200H0V0z" fill="#000000"/>
+<path d="M0,400h900v200H0V400z" fill="#007A3D"/>
+<path d="M600,300L0,600V0 M185.4,257.1l-9.3,23.6l-24.2-7.4l12.6,21.9l-21,14.3l25.1,3.8l-1.9,25.2l18.6-17.1l18.7,17.1
+	l-1.9-25.2l25-3.8l-20.8-14.3l12.6-21.9l-24.2,7.4L185.4,257.1z" fill="#CE1126"/>
+</svg>

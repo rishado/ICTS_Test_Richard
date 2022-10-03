@@ -1,0 +1,14 @@
+#map-container{
+  display: flex;
+}
+#viewDiv {
+    padding: 0;
+    margin: 0;
+    height: 85vh;
+    width: 90%;
+  }
+
+.disabled{
+
+  cursor: not-allowed !important;
+}
